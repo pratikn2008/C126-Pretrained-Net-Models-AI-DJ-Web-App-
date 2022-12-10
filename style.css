@@ -40,3 +40,13 @@ body{
     font-size: 23px;
     margin: 15px;
 }
+
+.play_button{
+    width: 80px;
+}
+
+canvas{
+    border-radius: 45px;
+    background-color: black;
+    border: 5px solid white;
+}
